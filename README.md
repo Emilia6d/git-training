@@ -2,3 +2,6 @@
 
 
 pierwsza zmiana
+
+
+2 zmiana
