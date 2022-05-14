@@ -17,4 +17,6 @@ zmiany z mojego lokalnego brancha
 jeszcze jakie zmiany 
 
 
+dodaje ulubiony cytat
+
 
