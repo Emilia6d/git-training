@@ -1,13 +1,5 @@
 # git-training
 
-ale narobie zmian
 
-pierwsza zmiana
+dokonuje pierwszej zmiany, ktora wypchne 
 
-
-2 zmiana
-
-3 zmiana
-
-
-4 zmiana
