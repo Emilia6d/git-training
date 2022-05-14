@@ -14,4 +14,7 @@ pierwsza zmiana
 
 zmiany z mojego lokalnego brancha
 
+jeszcze jakie zmiany 
+
+
 
