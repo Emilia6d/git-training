@@ -11,3 +11,7 @@ pierwsza zmiana
 
 
 4 zmiana
+
+zmiany z mojego lokalnego brancha
+
+
